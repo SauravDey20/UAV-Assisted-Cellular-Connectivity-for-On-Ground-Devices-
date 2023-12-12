@@ -1,1 +1,1 @@
-# UAV-Assisted-Cellular-Connectivity-for-On-Ground-Devices-
+# UAV-Assisted-Cellular-Connectivity-for-On-Ground-Devices
